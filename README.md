@@ -25,9 +25,7 @@ This repository includes:
 git clone https://github.com/Muhammad-Danish43/Introduction_to_programing_python_Assignments.git
 Open and Use Files
 .ipynb — Use in Jupyter Notebook / JupyterLab
-
 .html — Open in any web browser
-
 .pdf — Viewable directly
 
 Python 3.x and Jupyter Notebook are required to run notebook files.
@@ -35,17 +33,13 @@ Python 3.x and Jupyter Notebook are required to run notebook files.
 Related Lab Reports
 For detailed lab reports and documentation, visit my lab reports repository:
 
-Introduction to Programming in Python — Lab Reports
+Introduction to Programming in Python — Lab Reports(,/introduction_to_programing_python_lab_reports)
 
 Tools & Technologies
 Python 3.x
-
 Jupyter Notebook
-
 HTML
-
 PDF
-
 VS Code / JupyterLab
 
 Author
