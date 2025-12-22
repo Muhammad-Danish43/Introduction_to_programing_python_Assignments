@@ -33,7 +33,7 @@ Python 3.x and Jupyter Notebook are required to run notebook files.
 Related Lab Reports
 For detailed lab reports and documentation, visit my lab reports repository:
 
-Introduction to Programming in Python — Lab Reports(,/introduction_to_programing_python_lab_reports)
+Introduction to Programming in Python — Lab Reports(./introduction_to_programing_python_lab_reports)
 
 Tools & Technologies
 Python 3.x
